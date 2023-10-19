@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Ezzeldinb/game-pipline/_apis/build/status%2Fezz444.pipelines-java?branchName=main)](https://dev.azure.com/Ezzeldinb/game-pipline/_build/latest?definitionId=7&branchName=main)
 
 # Contributing
 
