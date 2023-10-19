@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Azure Pipline
+  name: Azure Piplines
 
 steps:
 - task: Maven@3
